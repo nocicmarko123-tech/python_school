@@ -1,2 +1,2 @@
 # Python for school
-PYython programs and homeworks for school.
+Python programs and homeworks for school.
